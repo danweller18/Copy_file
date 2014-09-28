@@ -1,0 +1,10 @@
+This is the readme for copysystemcalls.c
+
+WHAT IS IT-
+My program will copy an entire file to the same directory byte by byte.
+
+COMPILE-
+To compile my program you need to enter `gcc -o executable_shortcut_name copysystemcalls.c`
+
+EXECUTE-
+To run my program you need to enter `./copysystemcalls source_filename destination_filename` within a terminal. You must be in the same directory as the complied code and source file which you are copying (copysystemcalls is the name that I gave my compiled program). If you do not enter all of the three fields, attempting to execute the program will result in an error. 
